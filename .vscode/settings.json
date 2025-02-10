@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "html.format.wrapLineLength": 120,
+    "css.format.formatOnSave": true,
+    "files.associations": {
+        "*.html": "html",
+        "*.css": "css"
+    },
+    "[html]": {
+        "editor.tabSize": 2, // Set tab size for HTML to 2 spaces
+        "editor.insertSpaces": true // Use spaces for HTML files
+    },
+    "[css]": {
+        "editor.tabSize": 2, // Set tab size for CSS to 2 spaces
+        "editor.insertSpaces": true // Use spaces for CSS files
+    }
+}
