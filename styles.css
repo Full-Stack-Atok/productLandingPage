@@ -78,6 +78,14 @@ header nav ul li a:hover {
 }
 
 /* Features Section */
+.feature-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
 .features {
   padding: 60px 20px;
   text-align: center;
